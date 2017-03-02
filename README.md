@@ -33,8 +33,6 @@ Without nodemon :
 ```
 npm start
 ```
-With nodemon :
-````
-npm run dev
+
 ````
 Live reloading app at `http://localhost:3000/`

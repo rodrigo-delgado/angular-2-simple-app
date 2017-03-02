@@ -5,4 +5,6 @@ import { Component } from '@angular/core';
   selector: 'navbar',
   templateUrl: 'navbar.component.html'
 })
-export class NavbarComponent { }
+export class NavbarComponent {
+  branding = "Angular 2 App";
+}
